@@ -38,9 +38,7 @@ STUDENT-RECORD/
 ├─ server.js
 └─ .env
 
-Clone the repository
 
-git clone https://github.com/Priyanshi006789/STUDENT-RECORD-API/edit/main/README.md cd STUDENT-RECORD
 
 ## 📦 Installation & Setup
 
@@ -67,10 +65,10 @@ npm start
 MethodEndpointDescriptionGET/studentsGet all studentsPOST/studentsAdd a studentPUT/students/:idUpdate studentDELETE/students/:idRemove student
 Sample Request
 {
-  "name": "Priyanshi",
-  "course": "BCA",
+  "name": "Sakshi Ranjan",
+  "course": "B.tech",
   "age": 20,
-  "city": "Delhi"
+  "city": "Bhilai"
 }
 
 
@@ -97,7 +95,7 @@ Dashboard UI
 This project is licensed for academic and learning use.
 
 🙌 Author
-Created by Priyanshi Agarwal
+Created by Sakshi Ranjan
 
 ---
 
